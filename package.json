@@ -1,0 +1,26 @@
+{
+  "name": "koa-prisma",
+  "version": "1.0.0",
+  "description": "node-koa-prisma practice project.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/SKYE-iiii/node-koa-prisma.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/SKYE-iiii/node-koa-prisma/issues"
+  },
+  "homepage": "https://github.com/SKYE-iiii/node-koa-prisma#readme",
+  "devDependencies": {
+    "@types/node": "^20.12.7",
+    "prisma": "^5.12.1",
+    "ts-node": "^10.9.2",
+    "typescript": "^5.4.5"
+  }
+}
