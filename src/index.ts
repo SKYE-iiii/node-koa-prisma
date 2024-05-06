@@ -3,7 +3,7 @@
  * @Author: zyj
  * @Date: 2024-05-06 15:52:38
  * @LastEditors: zyj
- * @LastEditTime: 2024-05-06 16:56:09
+ * @LastEditTime: 2024-05-06 15:54:06
  * @FilePath: \node-koa-prisma\src\index.ts
  */
 import { PrismaClient } from "@prisma/client";
@@ -30,6 +30,7 @@ async function main() {
       profile: true,
     },
   });
+  console.dir(allUsers, { depth: null });
 }
 
 main()
