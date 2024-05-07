@@ -4,7 +4,7 @@
   "description": "node-koa-prisma practice project.",
   "main": "index.js",
   "scripts": {
-    "dev": "nodemon ./src/index.ts"
+    "dev": "nodemon ./main.ts"
   },
   "repository": {
     "type": "git",

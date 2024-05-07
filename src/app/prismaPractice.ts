@@ -3,6 +3,14 @@
  * @Author: zyj
  * @Date: 2024-05-06 15:52:38
  * @LastEditors: zyj
+ * @LastEditTime: 2024-05-07 16:16:36
+ * @FilePath: \node-koa-prisma\src\app\prismaPractice.ts
+ */
+/*
+ * @Description:
+ * @Author: zyj
+ * @Date: 2024-05-06 15:52:38
+ * @LastEditors: zyj
  * @LastEditTime: 2024-05-07 15:48:44
  * @FilePath: \node-koa-prisma\src\index.ts
  */
